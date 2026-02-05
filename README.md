@@ -1,5 +1,3 @@
-# Connect with Me 🌎
-
 - [**LinkedIn** - Sebastian Olson](https://www.linkedin.com/in/seol/)
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code) 
