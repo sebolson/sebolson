@@ -1,7 +1,3 @@
-# Hello world! 👋
-
-_Web Developer_
-
 # Connect with Me 🌎
 
 - [**LinkedIn** - Sebastian Olson](https://www.linkedin.com/in/seol/)
